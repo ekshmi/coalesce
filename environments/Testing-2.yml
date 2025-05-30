@@ -5,7 +5,7 @@ mappingDefinitions:
     database: SNOWFLAKE_SAMPLE_DATA
     schema: TPCH_SF1
   WORK:
-    database: ""
-    schema: ""
+    database: TEST_ENVT_COAL
+    schema: TEST
 name: Testing
 type: Environment
